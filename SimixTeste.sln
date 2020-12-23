@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimixTeste", "SimixTeste\SimixTeste.csproj", "{665E25D0-79FF-4567-AA69-3331DDAB0BE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{665E25D0-79FF-4567-AA69-3331DDAB0BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665E25D0-79FF-4567-AA69-3331DDAB0BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665E25D0-79FF-4567-AA69-3331DDAB0BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665E25D0-79FF-4567-AA69-3331DDAB0BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DB998AA-3BB2-4A4F-A9A1-F082D7CCD36D}
+	EndGlobalSection
+EndGlobal
